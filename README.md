@@ -2,7 +2,7 @@
 By  🅺🅰️🆂🅷🅸 
 [![Miui Security Mod](https://64.media.tumblr.com/101fcd7037b59a15222a868a27776afc/d2a4f3721a85989b-ef/s540x810/6aee5862c71276507ea642fbce4bdfc507223485.pnj)](https://64.media.tumblr.com/101fcd7037b59a15222a868a27776afc/d2a4f3721a85989b-ef/s540x810/6aee5862c71276507ea642fbce4bdfc507223485.pnj)
 
-This Launcher Made By 🅺🅰️🆂🅷🅸 It has all the features enabled and to install this you only need Magisk and Miui 12/13 based on A11/12/13
+This Security Mode Made By Kashi and It has all the features enabled and to install this you only need Magisk and Miui 12/13 based on A11/12/13
 
 • Based on CN Security app
 • Exclusive features unlocked
