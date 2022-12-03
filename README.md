@@ -1,25 +1,27 @@
-# MiuiSecurityMod
+# Modded MIUI Security Center 
  
 [![Miui Security Mod](https://64.media.tumblr.com/101fcd7037b59a15222a868a27776afc/d2a4f3721a85989b-ef/s540x810/6aee5862c71276507ea642fbce4bdfc507223485.pnj)](https://64.media.tumblr.com/101fcd7037b59a15222a868a27776afc/d2a4f3721a85989b-ef/s540x810/6aee5862c71276507ea642fbce4bdfc507223485.pnj)
 
-This Security Mod Made By [Kashi](https://t.me/kakashi1v1) and It has all the features enabled and to install this you only need Magisk and Miui 12/13 based on A11/12/13
+MIUI Security App modified by [Kashi](https://t.me/kakashi1v1) with many features unlocked.
+Its installation is via Magisk on MIUI 12-13 based ROMs with Android 10 or higher.
 
-• Based on CN Security app
+**Changelog:**
+• Based on CN Security Center
+• Global/cn/xiaomi.eu ROMs supported
+• Languages from xiaomi.eu Security Center included
 • Exclusive features unlocked
-• Locked Scan Score to 100 always
-• Working fine in Global/Indo/Eu/Cn Roms
-• Permanent background in Battery Health UI
-• Shutdown Confirmation
-• Incognito tile
-• More....
+• Security score always set to 100
+• Changes in battery status interface
+• Shutdown confirmation
+• Incognito mode
+• More...
 
-before installing or making issues / asking questions on telegram group
-[![Telegram](https://t.me/bootloop_discussion)](https://t.me/bootloop_discussion)
+For issues or questions you can send a message in [Telegram](https://t.me/bootloop_discussion) group.
 
 
 ### Download
 
-Download from the [releases page](https://github.com/Mods-Centre/MiuiSecurityMod/releases)
+Download from [releases page](https://github.com/Mods-Centre/MiuiSecurityMod/releases)
 
 
 ### Screenshots
@@ -32,10 +34,10 @@ Download from the [releases page](https://github.com/Mods-Centre/MiuiSecurityMod
 
 [![GameTurbo](https://64.media.tumblr.com/71f48a84647e20c35f0b78cfe955d87a/699fd87c3df2a30c-71/s540x810/9fbb127051565d986f292c235d1a51998d58c5d4.pnj)](https://64.media.tumblr.com/71f48a84647e20c35f0b78cfe955d87a/699fd87c3df2a30c-71/s540x810/9fbb127051565d986f292c235d1a51998d58c5d4.pnj)
 
-Instructions
-• Download and flash the zip in magisk
-• Reboot the device
-• Now Enjoy
+**Instructions**
+• Download zip and flash in Magisk
+• Reboot your device
+• Enjoy!
 
-The Rom being used in this Screenshot is Miui Mind Based on MIUI 13 - Android 12. Device Name is Redmi Mote 10 Pro (sweet)
+The ROM used in screenshots is MIUI Mind Edition based on MIUI 13 with Android 12 for Redmi Note 10 Pro (sweet).
 
