@@ -21,7 +21,7 @@ For issues or questions you can send a message in [Telegram](https://t.me/bootlo
 
 ### Download
 
-Download from [releases page](https://github.com/Mods-Centre/MiuiSecurityMod/releases)
+Download from [releases page](https://github.com/Mods-Center/MiuiSecurityMod/releases)
 
 
 ### Screenshots
