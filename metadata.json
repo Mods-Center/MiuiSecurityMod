@@ -1,0 +1,6 @@
+{
+  "name": "Security Center",
+  "description": "Modded MIUI Security Center with cleaner, battery optimizer, security scanner, speed booster, incognito mode, and privacy protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
