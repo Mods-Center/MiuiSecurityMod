@@ -1,46 +1,43 @@
-# Modded MIUI Security Center 
- 
-[![Miui Security Mod](https://64.media.tumblr.com/101fcd7037b59a15222a868a27776afc/d2a4f3721a85989b-ef/s540x810/6aee5862c71276507ea642fbce4bdfc507223485.pnj)](https://64.media.tumblr.com/101fcd7037b59a15222a868a27776afc/d2a4f3721a85989b-ef/s540x810/6aee5862c71276507ea642fbce4bdfc507223485.pnj)
+# Security Center (MIUI Security Mod)
 
-MIUI Security App modified by [Kashi](https://t.me/kakashi1v1) with many features unlocked.
-Its installation is via Magisk on MIUI 12-13 based ROMs with Android 10 or higher.
+An Android application built with Kotlin and Jetpack Compose, faithfully recreating the functionality, aesthetic, and modded exclusive features of **MiuiSecurityMod** (originally created by Kashi).
 
-**Changelog:**
-• Based on CN Security Center
-• Global/cn/xiaomi.eu ROMs supported
-• Languages from xiaomi.eu Security Center included
-• Exclusive features unlocked
-• Security score always set to 100
-• Changes in battery status interface
-• Shutdown confirmation
-• Incognito mode
-• More...
+## Features
 
-For issues or questions you can send a message in [Telegram](https://t.me/amogus_discussion) group.
+- **Security Center Dashboard**:
+  - Circular animated security gauge with real-time score optimization
+  - Live hardware metrics monitoring: RAM usage, internal storage capacity, and battery status
+  - Quick-action bento grid: Cleaner, Security Scan, Battery & Performance, Boost Speed, Deep Clean, and Manage Apps
 
+- **Cleaner & Cache Optimizer**:
+  - Scans trash cache, residual uninstalled files, obsolete APK packages, memory processes, and temporary system files
+  - Interactive category selection with item count and byte calculation
+  - One-tap cleanup with immediate storage recovery feedback
 
-### Download
+- **Battery & Performance (Modded UI)**:
+  - 4-way performance profiles: Save Battery, Balanced, Performance, and Ultra Saver
+  - Dynamic estimated remaining time projection
+  - Detailed hardware battery metrics: temperature in °C, battery health rating, charge cycle counter, and voltage
+  - App battery consumption breakdown with individual optimization actions
 
-Download from [releases page](https://github.com/Mods-Center/MiuiSecurityMod/releases)
+- **Deep Security Scan**:
+  - Antivirus definitions audit (dual engine verification)
+  - Payment sandbox security check
+  - System and root integrity verification
+  - Dangerous background permissions monitoring
+  - Wi-Fi and DNS security validation
 
+- **MiuiSecurityMod Exclusives & Toolbox**:
+  - **Force 100 Security Score**: Preserves the modded 100-point security rating
+  - **Shutdown Confirmation**: Prevents unauthorized power-offs from the lockscreen
+  - **Global Incognito Mode**: One-tap sensor shield for microphone, camera, and clipboard access
+  - **Video Toolbox**: Screen-off audio playback and dynamic display enhancements
+  - **Game Turbo 5.0**: Performance profile manager with target FPS selectors (60/90/120 Hz) and GPU boost
+  - **Privacy Behavior Log**: Timeline of recent sensitive permissions used by apps
 
-### Screenshots
+## Tech Stack
 
-[![App UI](https://64.media.tumblr.com/1183a24bec501047e16df1566c93bf28/699fd87c3df2a30c-b3/s1280x1920/8700fe85f61f0ba236ba70b28e8afa5eb816d6e0.pnj)](https://64.media.tumblr.com/1183a24bec501047e16df1566c93bf28/699fd87c3df2a30c-b3/s1280x1920/8700fe85f61f0ba236ba70b28e8afa5eb816d6e0.pnj)
-[![Battery](https://64.media.tumblr.com/f39c4dcdbb8848131d670d69717cb082/699fd87c3df2a30c-ae/s1280x1920/78dee365880ef43660586dacdba87bfe862ee809.pnj)](https://64.media.tumblr.com/f39c4dcdbb8848131d670d69717cb082/699fd87c3df2a30c-ae/s1280x1920/78dee365880ef43660586dacdba87bfe862ee809.pnj)
-
-[![VideoTool Box](https://64.media.tumblr.com/c3daf52191d197d7f64997097e7a86f6/699fd87c3df2a30c-55/s1280x1920/de5eeae7a597ec00d8d06ef99bb3f43a60ddde9f.pnj)](https://64.media.tumblr.com/c3daf52191d197d7f64997097e7a86f6/699fd87c3df2a30c-55/s1280x1920/de5eeae7a597ec00d8d06ef99bb3f43a60ddde9f.pnj)
-[![Protection Page](https://64.media.tumblr.com/9dc1bd944391b678309aa8570a5b1c5d/699fd87c3df2a30c-51/s1280x1920/32e35fa07c6a8357f6d0d2e253cbca2845871950.pnj)](https://64.media.tumblr.com/9dc1bd944391b678309aa8570a5b1c5d/699fd87c3df2a30c-51/s1280x1920/32e35fa07c6a8357f6d0d2e253cbca2845871950.pnj)
-
-[![GameTurbo](https://64.media.tumblr.com/71f48a84647e20c35f0b78cfe955d87a/699fd87c3df2a30c-71/s540x810/9fbb127051565d986f292c235d1a51998d58c5d4.pnj)](https://64.media.tumblr.com/71f48a84647e20c35f0b78cfe955d87a/699fd87c3df2a30c-71/s540x810/9fbb127051565d986f292c235d1a51998d58c5d4.pnj)
-
-**Instructions**
-• Download zip and flash in Magisk
-• Reboot your device
-• Enjoy!
-
-The ROM used in screenshots is MIUI Mind Edition based on MIUI 13 with Android 12 for Redmi Note 10 Pro (sweet).
-
-| Download Mods | Total |
-| --- | --- |
-| GitHub Releases | ![GitHub all releases](https://img.shields.io/github/downloads/Mods-Center/MiuiSecurityMod/total?logo=GitHub&style=for-the-badge&color=blue) |
+- **Platform**: Android (minSdk 26, targetSdk 36)
+- **UI Framework**: Jetpack Compose with Material 3
+- **Language**: Kotlin 2.2
+- **Build System**: Gradle 9.3 with Kotlin DSL
