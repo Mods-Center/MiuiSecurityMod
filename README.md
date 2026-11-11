@@ -15,7 +15,7 @@
 > [!WARNING]
 > **Legacy MIUI project. No longer updated.** It's kept for MIUI 12–13 users. HyperOS users: see [HyperOS Security Center Mod](https://github.com/Mods-Center/HyperOS-Security-Center).
 
-## ✨ Features
+## Features
 - Based on the CN Security Center, works on Global/CN/Xiaomi.eu ROMs
 - Translations from Xiaomi.eu
 - Exclusive features unlocked
@@ -24,19 +24,19 @@
 - Shutdown confirmation
 - Incognito mode
 
-## 📋 Requirements
+## Requirements
 - MIUI 12–13, Android 10 or newer
 - Magisk
 
-## 📥 Installation
+## Installation
 1. Download the latest zip from [**Releases**](https://github.com/Mods-Center/MiuiSecurityMod/releases/latest).
 2. Flash it in Magisk.
 3. Reboot your device.
 
-## ⚠️ Notes
+## Notes
 - If you use this in your ROM, please credit Mods Center. Not for paid ROMs.
 
-## 📸 Screenshots
+## Screenshots
 <p align="center">
   <img src="https://64.media.tumblr.com/1183a24bec501047e16df1566c93bf28/699fd87c3df2a30c-b3/s1280x1920/8700fe85f61f0ba236ba70b28e8afa5eb816d6e0.pnj" width="23%" alt="MIUI Security Center"/>
   <img src="https://64.media.tumblr.com/f39c4dcdbb8848131d670d69717cb082/699fd87c3df2a30c-ae/s1280x1920/78dee365880ef43660586dacdba87bfe862ee809.pnj" width="23%" alt="MIUI Security Center"/>
@@ -50,8 +50,8 @@
 
 <div align="center">
 
-Made by **[Kashi](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
+Made by **[🅺🅰🆂🅷🅸](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
 
-[📢 Channel](https://t.me/kashis_cringey_stuffs) · [💬 Support group](https://t.me/bootloop_discussion) · [🐞 Report a bug](https://github.com/Mods-Center/MiuiSecurityMod/issues)
+[Channel](https://t.me/kashis_cringey_stuffs) · [Support group](https://t.me/bootloop_discussion) · [Report a bug](https://github.com/Mods-Center/MiuiSecurityMod/issues)
 
 </div>
